@@ -1,0 +1,6 @@
+Colony PCR
+fw: ACS GGB TTC ATG ATG CCN TC
+rv: AAS ACC ACC ACG CTG GC
+Ta: 50C (could increase to 55)
+Product length: ~620
+Positive control: P. protegens DTU9.1

@@ -1,0 +1,7 @@
+threshold;medium;n
+negative;0.1x LBGM;304
+negative;TSB;64
+neutral;0.1x LBGM;395
+neutral;TSB;652
+positive;0.1x LBGM;20
+positive;TSB;3
